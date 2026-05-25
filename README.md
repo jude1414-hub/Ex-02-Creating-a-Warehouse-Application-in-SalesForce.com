@@ -1,6 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
-# Name: Rahul Krishna S
-# Register Number: 212223040162
+# Name: Jude Clement Jose G
+# Register Number: 212224230109
 
 ## AIM:
 To create a warehouse application in salesforce.com
